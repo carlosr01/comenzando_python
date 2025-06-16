@@ -1,2 +1,2 @@
-# comenzando_python
-Curso introductorio de python 
+# Comenzando Python
+Curso introductorio de Python 
